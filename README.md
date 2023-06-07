@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Theertha26
 - 👀 I’m interested in web application and app development
-- 🌱 I’m currently learning BCA
+- 🌱 I’m completed my BCA course
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
